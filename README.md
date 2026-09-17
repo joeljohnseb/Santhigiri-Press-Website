@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Santhigiri College Press
 
 Online ordering platform for a college print shop. Students and staff can browse print services, upload files, get price quotes, place orders, and track status. Staff manage orders through an admin dashboard.
@@ -81,3 +82,6 @@ Edit `src/lib/data.ts` to update:
 - Tailwind CSS
 - Supabase (auth, DB, storage — optional)
 - Razorpay (payments — optional)
+=======
+# Santhigiri-Press-Website
+>>>>>>> e67e32f0527220fb67f409c36bbf12f6c5ca2a34
