@@ -1,0 +1,47 @@
+[
+  {
+    "customer": {
+      "name": "Joel",
+      "email": "tojoeljohns@gmail.com",
+      "phone": "9562281433"
+    },
+    "items": [
+      {
+        "productId": "prod-xerox-bw",
+        "productName": "Black & White Xerox",
+        "quantity": 1,
+        "paperTypeId": "paper-80gsm",
+        "paperTypeName": "80 GSM Bond",
+        "paperSizeId": "size-a4",
+        "paperSizeName": "A4",
+        "colorOption": "bw",
+        "unitPrice": 2,
+        "totalPrice": 2,
+        "files": [
+          {
+            "id": "2f50567f-8227-4910-8890-e07e01092b48",
+            "name": "Screenshot 2026-08-05 at 3.52.57 PM.png",
+            "url": "/uploads/cc59192f-ab0b-47c0-b0d7-5ede058e2bce.png",
+            "size": 117598,
+            "type": "image/png"
+          }
+        ],
+        "notes": "",
+        "requiresManualQuote": false
+      }
+    ],
+    "subtotal": 2,
+    "deliveryCharge": 0,
+    "total": 2,
+    "status": "cancelled",
+    "paymentMethod": "online",
+    "paymentStatus": "pending",
+    "fulfillmentType": "pickup",
+    "pickupLocationId": "pickup-press",
+    "pickupLocationName": "Main Press Counter",
+    "id": "be6f5f1a-34ca-4223-bb07-88eefd08cc92",
+    "orderNumber": "SG-20260916-8479",
+    "createdAt": "2026-09-16T12:56:47.197Z",
+    "updatedAt": "2026-09-16T12:57:54.191Z"
+  }
+]
