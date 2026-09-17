@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Santhigiri College Press
 
 Online ordering platform for a college print shop. Students and staff can browse print services, upload files, get price quotes, place orders, and track status. Staff manage orders through an admin dashboard.
